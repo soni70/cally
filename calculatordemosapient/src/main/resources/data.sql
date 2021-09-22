@@ -1,0 +1,1 @@
+insert into Fees (national_id,fees)values(5,8000),(6,9000),(7,10000),(8,11000),(9,9000);
